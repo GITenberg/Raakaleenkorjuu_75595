@@ -1,0 +1,37 @@
+_repo: Raakaleenkorjuu_75595
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Hedman, Valfrid
+    birthdate: 1872
+    deathdate: 1939
+    gutenberg_agent_id: '46070'
+    url: http://www.gutenberg.org/2009/agents/46070
+    wikipedia: https://fi.wikipedia.org/wiki/Valfrid_Hedman
+creator:
+  author:
+    agent_name: Kaye-Smith, Sheila
+    alias: Fry, Sheila Kaye-Smith
+    birthdate: 1887
+    deathdate: 1956
+    gutenberg_agent_id: '6284'
+    url: http://www.gutenberg.org/2009/agents/6284
+    wikipedia: https://en.wikipedia.org/wiki/Sheila_Kaye-Smith
+description: ''
+gutenberg_issued: '2025-03-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75595'
+language: fi
+pgterms:marc905: 20241114050840kayesmith
+pgterms:marc906: '1928'
+pgterms:marc907: FI
+production_note: Tuula Temonen and Tapio Riikonen
+publication_note: '  $aHämeenlinna :$bArvi A. Karisto Oy, $c1928.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Raakaleenkorjuu
+url: http://www.gutenberg.org/ebooks/75595
